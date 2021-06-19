@@ -1,23 +1,6 @@
 Introduction:
 Simple stock market fantasy league game website
 
-
-File list:
-	account.php: the account settings page
-	create_league.php: the league creation page
-	errors.php: container for errors that will be shown on screen
-	homepage.php: homepage of project. intended starting point of project
-	index.php: main menu after login
-	league.php: the league selection page
-	league_page.php: the individual league page
-	login.php: the login page
-	register.php: the registration page
-	server.php: the backend code for database functions
-	stock.php: the stock search/buy/sell page
-	style.css: the CSS for the project
-	users (2).sql: the database of the project. should be imported
-
-
 How to run:
 Since our project is meant to be a website, it should be accessible via url through the web browser and will not require install if currently hosted on a web server. 
 
